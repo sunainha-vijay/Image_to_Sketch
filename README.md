@@ -30,8 +30,13 @@ To use the K-Means clustering method:
 3. Follow the on-screen prompts to generate sketches from images.
 
 Methadology overview:
+
 ![WhatsApp Image 2024-05-12 at 9 26 38 PM](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/bfdf2c19-39ef-4e99-a3fe-75647e3e0a24)
 
+Result:
+
+![WhatsApp Image 2024-05-12 at 11 41 56 PM (1)](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/b664a389-a4f1-411a-a8fc-aa780d5ef0aa)
+![WhatsApp Image 2024-05-12 at 11 41 56 PM (2)](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/91203eb1-2d9c-4e29-bd8f-d1ce370e906b)
 
 ### Autoencoders
 
@@ -42,7 +47,11 @@ To use the Autoencoders method:
 3. Review the generated sketches in the output directory.
    
 Methadology overview:
+
 ![WhatsApp Image 2024-05-12 at 9 25 58 PM](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/08d8fdaa-ea6b-40f0-8e32-3376b7634269)
+
+Result:
+![WhatsApp Image 2024-05-12 at 11 41 56 PM](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/b7a9c9be-7fdf-4791-b26b-a5952081a9a4)
 
 ### Generative Adversarial Networks (GANs)
 
@@ -53,6 +62,7 @@ To use the GANs method:
 3. Review the generated sketches in the output directory.
 
 Methadology overview:
+
 ![WhatsApp Image 2024-05-12 at 9 27 05 PM](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/bafa1693-771f-49fe-bc96-9ca22ca5d80e)
 
 ## Contributing
