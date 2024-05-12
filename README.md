@@ -29,6 +29,12 @@ To use the K-Means clustering method:
 2. Run the script `K-Means.py`.
 3. Follow the on-screen prompts to generate sketches from images.
 
+Methadology overview:
+![WhatsApp Image 2024-05-12 at 9 25 58 PM](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/08d8fdaa-ea6b-40f0-8e32-3376b7634269)
+![WhatsApp Image 2024-05-12 at 9 26 38 PM](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/bfdf2c19-39ef-4e99-a3fe-75647e3e0a24)
+![WhatsApp Image 2024-05-12 at 9 27 05 PM](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/bafa1693-771f-49fe-bc96-9ca22ca5d80e)
+
+
 ### Autoencoders
 
 To use the Autoencoders method:
