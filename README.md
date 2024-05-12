@@ -51,6 +51,7 @@ Methadology overview:
 ![WhatsApp Image 2024-05-12 at 9 25 58 PM](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/08d8fdaa-ea6b-40f0-8e32-3376b7634269)
 
 Result:
+
 ![WhatsApp Image 2024-05-12 at 11 41 56 PM](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/b7a9c9be-7fdf-4791-b26b-a5952081a9a4)
 
 ### Generative Adversarial Networks (GANs)
@@ -64,6 +65,11 @@ To use the GANs method:
 Methadology overview:
 
 ![WhatsApp Image 2024-05-12 at 9 27 05 PM](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/bafa1693-771f-49fe-bc96-9ca22ca5d80e)
+
+Result:
+
+![WhatsApp Image 2024-05-12 at 11 55 52 PM](https://github.com/sunainha-vijay/Image_to_Sketch/assets/113001688/8da17141-5f9f-4e94-9985-4a85eafdfae4)
+
 
 ## Contributing
 
