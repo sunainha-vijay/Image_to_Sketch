@@ -8,6 +8,7 @@ from sklearn.model_selection import train_test_split
 from skimage.metrics import structural_similarity as ssim
 from skimage.metrics import peak_signal_noise_ratio as psnr
 
+
 # Function to sort files alphanumerically
 def sorted_alphanumeric(data):
     convert = lambda text: int(text) if text.isdigit() else text.lower()
